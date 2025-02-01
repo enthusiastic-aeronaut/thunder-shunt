@@ -3,7 +3,7 @@ Wire-wound shunt resistor holders
 
 Inspired by [this](https://youtu.be/j4u8fl31sgQ) video from Electroboom, this FreeCAD model is a fully parametric shunt resistor wire spool.
 
-![Screenshot of FreeCAD part](thunder-shunt/thunder_shunt_model.png)
+![Screenshot of FreeCAD part](/assets/thunder-shunt/thunder_shunt_model.png)
 
 ## Instructions
 1. Open the file in FreeCAD.
